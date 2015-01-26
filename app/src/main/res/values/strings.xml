@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SandwichStudio</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title">Order form</string>
+    <string name="bread">Bread</string>
+    <string name="wheat">Wheat</string>
+    <string name="white">White</string>
+    <string name="rye">Rye</string>
+    <string name="toppings">Toppings</string>
+    <string name="tomato">Tomato</string>
+    <string name="lattuce">Lattuce</string>
+    <string name="onion">Onion</string>
+    <string name="grated_carrot">Grated carrot</string>
+    <string name="olives">Olives</string>
+    <string name="sesame_seeds">Sesame seeds</string>
+    <string name="ham">Ham</string>
+    <string name="cheese">Cheese</string>
+
+</resources>
