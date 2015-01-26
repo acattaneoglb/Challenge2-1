@@ -18,5 +18,6 @@
     <string name="ham">Ham</string>
     <string name="cheese">Cheese</string>
     <string name="place_order">Place my order</string>
+    <string name="title_activity_order_confirmation">Order confirmation</string>
 
 </resources>
