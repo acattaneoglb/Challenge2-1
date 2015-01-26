@@ -89,4 +89,11 @@
         android:layout_height="wrap_content"
         android:text="@string/cheese"
         android:id="@+id/check_topping_cheese" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/place_order"
+        android:id="@+id/button_place_order"
+        android:layout_gravity="right" />
 </LinearLayout>

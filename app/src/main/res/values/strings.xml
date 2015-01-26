@@ -17,5 +17,6 @@
     <string name="sesame_seeds">Sesame seeds</string>
     <string name="ham">Ham</string>
     <string name="cheese">Cheese</string>
+    <string name="place_order">Place my order</string>
 
 </resources>
