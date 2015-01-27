@@ -20,7 +20,7 @@
     <string name="place_order">Place my order</string>
     <string name="title_activity_order_confirmation">Order confirmation</string>
     <string name="successful_order">Your order was successfully taken.</string>
-    <string name="order_resume_title">Order resume:</string>
+    <string name="order_resume_title">" Order resume:"</string>
     <string name="order_resume_begin">You asked for a sandwich</string>
     <string name="order_resume_bread_begin">" with "</string>
     <string name="wheat">wheat</string>
